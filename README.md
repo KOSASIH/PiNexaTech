@@ -1,3 +1,8 @@
+![Static Badge](https://img.shields.io/badge/Pi_Network-violet)
+![Static Badge](https://img.shields.io/badge/High-Tech-white)
+![Static Badge](https://img.shields.io/badge/PiNexa-gold)
+
+
 # PiNexaTech
 PiNexaTech repository houses the development work and resources for the PiNexa project, designed to bring unparalleled technological advancements to the Pi Network platform.
 
